@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Service\Service.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api.Domain", "Api.Domain", "{83C493C5-E01D-4717-A105-43B322D63696}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api.Data", "Api.Data", "{E8751FD9-A098-4E06-A480-3B038A85D795}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,7 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5C0EE9E3-C647-4607-8AA6-516EF492EA81} = {83C493C5-E01D-4717-A105-43B322D63696}
+		{C14004B3-A92D-426D-BEDF-EDA6EB78B0A7} = {E8751FD9-A098-4E06-A480-3B038A85D795}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1603B0CB-D96F-4F56-A3D5-BC0D4B71631F}
